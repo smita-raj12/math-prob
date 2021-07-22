@@ -1,13 +1,13 @@
 
 # Project Name
- 
+   Math-problems
 ## Name of contributor:
 
 Smita   
 
 ## Live Site:
 
-[https://smita-raj12.github.io/Pizza-Parlor](https://smita-raj12.github.io/Pizza-Parlor)
+[https://smita-raj12.github.io/math-prob](https://smita-raj12.github.io/math-prob)
 
 ## Technologies used:
 
@@ -26,7 +26,7 @@ Smita
 
 * Navigate to the directory.
 
-* Open Pizza-parlor/index.html on your choice of code editor.
+* Open math-prob/index.html on your choice of code editor.
 
 * If you are using Vscode, open the command palette and search for `live
 with live server`
